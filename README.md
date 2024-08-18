@@ -1,0 +1,1 @@
+A simple CRUD (Create, Read, Update, Delete) application built using React and Axios. This project demonstrates how to perform basic CRUD operations on user data.
